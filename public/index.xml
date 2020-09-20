@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Kim • 김홍주</title>
+    <link>http://www.eskimojamz/github.io/</link>
+    <description>Recent content on James Kim • 김홍주</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Aug 2020 20:27:12 +0900</lastBuildDate><atom:link href="http://www.eskimojamz/github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dev post 1</title>
+      <link>http://www.eskimojamz/github.io/dev/dev-1/</link>
+      <pubDate>Sun, 23 Aug 2020 20:27:12 +0900</pubDate>
+      
+      <guid>http://www.eskimojamz/github.io/dev/dev-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Settling in Korea</title>
+      <link>http://www.eskimojamz/github.io/post/settling-in-korea/</link>
+      <pubDate>Sun, 23 Aug 2020 20:27:12 +0900</pubDate>
+      
+      <guid>http://www.eskimojamz/github.io/post/settling-in-korea/</guid>
+      <description>It’s been about three months since I&amp;rsquo;ve arrived in Korea. I am so thankful to this country, the nation of my origins. I finally feel that I’ve settled down now. I have a studio apartment in Seoul, a job as an English instructor and my foreign resident card (finally)!
+I had first visited this country about two years ago. I came here on my own, barely being able to read the signs on the road.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.eskimojamz/github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.eskimojamz/github.io/about/</guid>
+      <description>Hello! 👨🏻‍💻
+I’m James, an English teacher, currently based in Seoul, Korea, learning to code.
+Welcome to my blog 🙂</description>
+    </item>
+    
+  </channel>
+</rss>
